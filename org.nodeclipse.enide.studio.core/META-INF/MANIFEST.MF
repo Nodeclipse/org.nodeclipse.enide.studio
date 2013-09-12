@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.nodeclipse.enide.studio Core Plugin
+Bundle-SymbolicName: org.nodeclipse.enide.studio.core;singleton:=true
+Bundle-Version: 0.6.0.qualifier
+Bundle-Activator: org.nodeclipse.enide.studio.core.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5,
+ JavaSE-1.6

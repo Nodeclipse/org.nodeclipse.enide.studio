@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.nodeclipse.enide.studio.feature_0.6.0.qualifier.jar" id="org.nodeclipse.enide.studio.feature" version="0.6.0.qualifier"/>
+</site>
