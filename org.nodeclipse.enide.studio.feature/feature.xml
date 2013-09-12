@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.nodeclipse.enide.studio.feature"
-      label="org.nodeclipse.enide.studio Feature"
+      label="Nodeclpse Enide Studio"
       version="0.6.0.qualifier">
 
    <description url="http://www.example.com/description">
@@ -22,5 +22,11 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
+
+   <plugin
+         id="org.nodeclipse.enide.studio.about"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
 
 </feature>

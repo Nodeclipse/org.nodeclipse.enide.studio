@@ -88,6 +88,7 @@
     </pluginManagement>
   </build>  
   <modules>
+  	<module>org.nodeclipse.enide.studio.about</module>
     <module>org.nodeclipse.enide.studio.core</module>
     <module>org.nodeclipse.enide.studio.test</module>
     <module>org.nodeclipse.enide.studio.feature</module>

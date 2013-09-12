@@ -26,4 +26,23 @@
       </actionSet>
    </extension>
 
+   <!-- file associations -->
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            id="org.nodeclipse.editor.ScrapbookEditor"
+            name="Scrapbook Editor (JDT)"
+            class="org.eclipse.jdt.internal.debug.ui.snippeteditor.JavaSnippetEditor"
+            default="true"
+            extensions="p2f,jade">
+      </editor>
+      <editor
+            id="org.nodeclipse.editor.AptanaHTMLEditor"
+            name="HTML Editor (Aptanta)"
+            class="com.aptana.editor.html.HTMLEditor"
+            default="true"
+            extensions="ejs">
+      </editor>
+   </extension>
+
 </plugin>
