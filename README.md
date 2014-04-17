@@ -1,6 +1,5 @@
 
-
-Currently error when re-installing from zip
+TODO: Currently error when re-installing from zip
 
 	An error occurred while collecting items to be installed
 	session context was:(profile=epp.package.dsl, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
